@@ -1,0 +1,15 @@
+0:
+-----------a-------aa-aa-a-----------a--
+--ll----aa---aa-----aaaa---------a----l-
+-l-lla-aaa--a--------aa----a----alal----
+--lla---a-----all--------llaa--allla-la-
+------a-----aallll--a--al-l-----llalaa--
+aa--aaa----aaalllll--aaal--------al-----
+
+2345:
+aaa-aaaa-----aa--aaaaa----aaaaaa--a----a
+-aa--aa------aaaa--aaaaaaaaaa--aaaa-----
+---a--a---aa-aaaa-a---aaa--aaaaaall-----
+aa-a--a--aaaaaallaa----aaa-aaaaalll-----
+a-a---aa--aaaallll---aa---aaaaaalll-----
+aaaaaaaa-----alllla-aaaa----a--aaaaa---a

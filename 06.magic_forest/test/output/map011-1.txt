@@ -1,0 +1,15 @@
+0:
+lllllllllllalllllllaalaalalllllllllllall
+ll--llllaalllaalllllaaaalllllllllallll-l
+l-l--alaaallallllllllaallllalllla-a-llll
+ll--alllallllla--llllllll--aalla---al-al
+llllllalllllaa----llalla-l-lllll--a-aall
+aallaaallllaaa-----llaaa-lllllllla-lllll
+
+1:
+lllllllllllllllllllaa-aa-llllllllllllll-
+ll--lllllllllllllllll--lllllllllllllll-l
+l----lll-lllllllllllllllllllllllaaa-llll
+ll--lllllllllll--llllllll--lllll-aaa-all
+lllllllllllllaa---llllll-l-lllll--aallll
+allllaallllaaa-----llaaa--llllll-a---lll

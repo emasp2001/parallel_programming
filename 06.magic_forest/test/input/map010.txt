@@ -1,0 +1,7 @@
+6 40
+-----------a-------aa-aa-a-----------a--
+--ll----aa---aa-----aaaa---------a----l-
+-l-lla-aaa--a--------aa----a----alal----
+--lla---a-----all--------llaa--allla-la-
+------a-----aallll--a--al-l-----llalaa--
+aa--aaa----aaalllll--aaal--------al-----

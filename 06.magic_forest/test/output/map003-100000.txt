@@ -1,0 +1,17 @@
+0:
+-------
+-l--l--
+-ll----
+-l-----
+---laa-
+-aa-al-
+a-a----
+
+100000:
+aaa-aaa
+aa---aa
+a-aaa-a
+--a-a--
+a-aaa-a
+aa---aa
+aaa-aaa

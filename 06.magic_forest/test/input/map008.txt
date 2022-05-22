@@ -1,0 +1,6 @@
+5 20
+llllllllllllllllllll
+ll--------a-------ll
+llaaaaaaaaaaaaaaaall
+ll--------a-------ll
+llllllllllllllllllll

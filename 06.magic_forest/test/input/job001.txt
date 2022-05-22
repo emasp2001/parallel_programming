@@ -1,0 +1,13 @@
+map000.txt 1
+map001.txt 10
+map002.txt -10
+map003.txt -100000
+map004.txt -1000
+map005.txt 2
+map006.txt 2
+map007.txt 50
+map008.txt 50
+map009.txt -2000
+map010.txt -2345 
+map011.txt -1
+map012.txt 10

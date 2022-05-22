@@ -1,0 +1,13 @@
+0:
+llllllllllllllllllll
+ll--------a-------ll
+llaaaaaaaaaaaaaaaall
+ll--------a-------ll
+llllllllllllllllllll
+
+2000:
+lla--aaa----aaa--all
+ll-aaaaaa--aaaaaa-ll
+ll-aaa-aa--aa-aaa-ll
+ll-aaaaaa--aaaaaa-ll
+lla--aaa----aaa--all
