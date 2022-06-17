@@ -23,5 +23,5 @@ Laboratories and projects from my university course Parallel Programming
 - Doxygen
 - Makefiles
 - MPI
-- PThreads
 - OpenMP
+- PThreads
